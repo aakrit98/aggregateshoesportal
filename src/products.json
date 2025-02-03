@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone X1",
+    "description": "A high-performance smartphone with a 6.5-inch display, 128GB storage, and 5G connectivity.",
+    "price": 799.99,
+    "image": "https://via.placeholder.com/150?text=Smartphone+X1",
+    "brief": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quam nisl, sodales et semper nec, dictum ut turpis. Sed imperdiet pulvinar commodo. Nam suscipit accumsan luctus. Quisque laoreet, ligula quis condimentum lobortis, justo augue fringilla velit, at vestibulum justo dui et orci. Quisque elementum augue ac gravida facilisis. Fusce quis accumsan magna. Donec gravida viverra lectus. Aenean in imperdiet nibh. Duis sodales sagittis vulputate. Nulla vulputate blandit felis. Quisque risus tellus, vehicula ut nisl vel, ultricies mattis elit. Sed in lobortis sapien, at mattis justo. Fusce eros dolor, ultricies eu tincidunt a, posuere eu ante. Duis tellus ex, semper vel sagittis non, finibus eget eros. Donec varius justo a leo pellentesque venenatis. Suspendisse non eros ante."
+  },
+  {
+    "id": 2,
+    "name": "Laptop Pro 15",
+    "description": "A powerful laptop with an Intel i7 processor, 16GB RAM, and a 512GB SSD.",
+    "price": 1299.99,
+    "image": "https://via.placeholder.com/150?text=Laptop+Pro+15"
+  },
+  {
+    "id": 3,
+    "name": "Wireless Headphones",
+    "description": "Noise-cancelling wireless headphones with over 30 hours of battery life.",
+    "price": 199.99,
+    "image": "https://via.placeholder.com/150?text=Wireless+Headphones"
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch 3",
+    "description": "A sleek smartwatch with flitness tracking, heart rate monitor, and a 2-day battery life.",
+    "price": 249.99,
+    "image": "https://via.placeholder.com/150?text=Smartwatch+3"
+  },
+  {
+    "id": 5,
+    "name": "Tablet S8",
+    "description": "A lightweight tablet with a 10.5-inch screen and 64GB of internal storage.",
+    "price": 399.99,
+    "image": "https://via.placeholder.com/150?text=Tablet+S8"
+  },
+  {
+    "id": 6,
+    "name": "Bluetooth Speaker",
+    "description": "Portable Bluetooth speaker with high-quality sound and 12 hours of battery life.",
+    "price": 89.99,
+    "image": "https://via.placeholder.com/150?text=Bluetooth+Speaker"
+  },
+  {
+    "id": 7,
+    "name": "4K TV 55\"",
+    "description": "A 55-inch 4K Ultra HD television with HDR support and smart features.",
+    "price": 649.99,
+    "image": "https://via.placeholder.com/150?text=4K+TV+55%22"
+  },
+  {
+    "id": 8,
+    "name": "Gaming Console X100",
+    "description": "Next-gen gaming console with 1TB of storage and support for 4K gaming.",
+    "price": 499.99,
+    "image": "https://via.placeholder.com/150?text=Gaming+Console+X100"
+  },
+  {
+    "id": 9,
+    "name": "Smart Bulbs (Pack of 2)",
+    "description": "A pair of smart bulbs that can be controlled via your smartphone or voice assistant.",
+    "price": 39.99,
+    "image": "https://via.placeholder.com/150?text=Smart+Bulbs"
+  },
+  {
+    "id": 10,
+    "name": "Electric Scooter",
+    "description": "An eco-friendly electric scooter with a top speed of 15 mph and a range of 25 miles.",
+    "price": 399.99,
+    "image": "https://via.placeholder.com/150?text=Electric+Scooter"
+  },
+  {
+    "id": 11,
+    "name": "Instant Camera",
+    "description": "Instant film camera with a built-in flash and a variety of color filters.",
+    "price": 129.99,
+    "image": "https://via.placeholder.com/150?text=Instant+Camera"
+  },
+  {
+    "id": 12,
+    "name": "VR Headset Pro",
+    "description": "Virtual reality headset with high-definition display and immersive 360-degree experience.",
+    "price": 299.99,
+    "image": "https://via.placeholder.com/150?text=VR+Headset+Pro"
+  },
+  {
+    "id": 13,
+    "name": "Portable Power Bank",
+    "description": "A 10,000mAh portable power bank for charging your devices on the go.",
+    "price": 29.99,
+    "image": "https://via.placeholder.com/150?text=Portable+Power+Bank"
+  },
+  {
+    "id": 14,
+    "name": "Drone X300",
+    "description": "A high-tech drone with a 4K camera and a 30-minute battery life.",
+    "price": 799.99,
+    "image": "https://via.placeholder.com/150?text=Drone+X300"
+  }
+]
